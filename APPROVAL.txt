@@ -1,1 +1,2 @@
-A1B2C3D4E5414193AB478ARMV8L|2024-12-30|SAGOR-XD
+Expiration Date: 2024-07-18
+Key: your_generated_key
