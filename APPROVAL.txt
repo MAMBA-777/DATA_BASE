@@ -1,2 +1,2 @@
-Expiration Date: 2024-07-18
+Expire Date: 2024-06-28
 Key: A1B2C3D4E5414193AB478ARMV8L
