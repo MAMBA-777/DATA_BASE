@@ -111,5 +111,9 @@
   {
     "key": "new_key",
     "expiration_date": "2024-07-19"
+  },
+  {
+    "key": "TEST",
+    "expiration_date": "2024-07-19"
   }
 ]
