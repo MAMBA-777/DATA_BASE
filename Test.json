@@ -103,5 +103,9 @@
     "expiration_date": "2024-07-19",
     "key": "key_10",
     "name": "user_10"
+  },
+  {
+    "key": "new_key",
+    "expiration_date": "2024-07-19"
   }
 ]
